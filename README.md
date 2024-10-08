@@ -11,7 +11,8 @@ Load the extracted data into Power BI, ensuring all relevant datasets are includ
 
 Clean and transform the raw data, correcting any inconsistencies or missing values.
 Shape the data according to project requirements, preparing it for analysis. This step ensures that the data is well-organized and ready for modeling.
-Data Modeling and DAX Measures: Create relationships between different data tables in Data Modeling to build a cohesive structure. Afterward, build calculations and metrics using DAX (Data Analysis Expressions) to generate insights, such as calculated columns, measures, and key performance indicators (KPIs).
+## Data Modeling and DAX Measures:
+Create relationships between different data tables in Data Modeling to build a cohesive structure. Afterward, build calculations and metrics using DAX (Data Analysis Expressions) to generate insights, such as calculated columns, measures, and key performance indicators (KPIs).
 
 ## Visualization: Design and implement visual reports and dashboards. Use Power BI’s wide range of visualization tools to:
 
